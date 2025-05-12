@@ -27,8 +27,8 @@ A modern and minimal starter boilerplate to build **cross-platform desktop apps*
 ### 1. Clone the Repository
 
 ```bash
-git clone git@github.com:your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/devshojol/Electron-js-boilerplate.git
+cd Electron-js-boilerplate
 ```
 
 ### 2. Install Dependencies
