@@ -5,6 +5,7 @@
   "type": "module",
   "main": "electron/main.js",
   "homepage": "./dist",
+  "license": "MIT",
   "build": {
     "appId": "com.example.yourapp",
     "files": [
