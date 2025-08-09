@@ -63,7 +63,7 @@
         {
           "name": "@electron-forge/maker-squirrel",
           "config": {
-            "name": "cutesie_pomodoro_timer"
+            "name": "test_project"
           }
         },
         {
